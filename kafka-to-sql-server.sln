@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScryfallToSQLConsumer", "ScryfallToSQLConsumer\ScryfallToSQLConsumer.csproj", "{94CFAA0F-DB4E-47CD-BF1B-814FC5C2DC58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScryfallToSQLConsumer.UnitTests", "ScryfallToSQLConsumer.UnitTests\ScryfallToSQLConsumer.UnitTests.csproj", "{12E73B63-A6C7-4E1B-85A5-1E1A73BC0F86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{94CFAA0F-DB4E-47CD-BF1B-814FC5C2DC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94CFAA0F-DB4E-47CD-BF1B-814FC5C2DC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94CFAA0F-DB4E-47CD-BF1B-814FC5C2DC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E73B63-A6C7-4E1B-85A5-1E1A73BC0F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E73B63-A6C7-4E1B-85A5-1E1A73BC0F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E73B63-A6C7-4E1B-85A5-1E1A73BC0F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E73B63-A6C7-4E1B-85A5-1E1A73BC0F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
